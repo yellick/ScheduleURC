@@ -1,4 +1,5 @@
 C:\Users\admin\Desktop\vkr\Schedule
+D:\URC-vkr\Schedule
 
 Библиотеки:
 
