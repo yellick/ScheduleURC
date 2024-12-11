@@ -94,13 +94,13 @@ const styles = StyleSheet.create({
     paddingLeft: 8,
   },
   button: {
-    padding: 10, // Внутренний отступ
+    padding: 10,
     paddingHorizontal: 30,
   },
   buttonText: {
-    color: '#fff', // Цвет текста
-    fontSize: 16, // Размер текста
-    textAlign: 'center', // Выравнивание текста по центру
+    color: '#fff',
+    fontSize: 16,
+    textAlign: 'center',
   },
 });
 
